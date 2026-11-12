@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://blog.apify.com/edge-ai-vs-cloud-ai/",
+    "title": "Edge AI vs. cloud AI in 2026",
+    "description": "Compare edge AI and cloud AI on speed, offline use, computing power, and cost, then see when each one fits and when a hybrid setup makes sense.",
+    "author": null,
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "language": "en",
+    "wordCount": 1072,
+    "text": "Back to all posts\n\nAI\n\nTool comparisons\n\nEdge AI vs. cloud AI in 2026\n\nShould your model run on the device or a remote server? Edge AI responds fast and works offline, while cloud AI has the computing power. Here’s how to choose.\n\nNov 12, 2026 by\n\nEgop Gogo-Job\n\nGrand View Research estimates the global AI market at $539.5 billion in 2026 and projects it to reach roughly $3.5 trillion by 2033. As AI adoption grows, organizations are looking for ways to meet their needs while using resources efficiently. Part of that is deciding which tasks should run locally and which should run in the cloud.\n\n ... [truncated]",
+    "scrapedAt": "2026-11-12T20:34:28.839Z"
+  },
+  {
+    "url": "https://blog.apify.com/",
+    "title": "Apify Blog",
+    "description": "Learn how to use Apify Actors to get real-time web data, generate leads, monitor social media, and integrate your apps and agents.",
+    "author": null,
+    "publishedAt": "2026-06-30",
+    "language": "en",
+    "wordCount": 645,
+    "text": "Product\n\nStart here!\n\nReady-to-run tools for your AI agents and apps. Just pick one and go.\n\nBrowse 50,000+ Actors\n\nApify platform\n\nApify Store\n\nActors for any job on the web\n\nActors\n\nBuild and run serverless programs\n\nIntegrations\n\nConnect with apps and services\n\nMCP\n\nGive your AI access to Actors\n\nAnti-blocking\n\nAnti-blocking\n\nScrape without getting blocked\n\nProxy\n\nRotate scraper IP addresses\n\nOpen source\n\nCrawlee\n\nWeb scraping and crawling library\n\nSolutions\n\nMCP server configuration\n\nConfigure your Apify MCP server with Actors and tools for seamless integration with MCP clients.\n\nStart bui ... [truncated]",
+    "scrapedAt": "2026-11-12T20:34:28.959Z"
+  },
+  {
+    "url": "https://blog.apify.com/scrape-instagram-ads/",
+    "title": "How to scrape Instagram ads: Meta ad intelligence in one tool",
+    "description": "Track competitor ads, analyze creative trends across markets, and automate Meta ad research in minutes - not hours - with an Apify scraper.",
+    "author": null,
+    "publishedAt": "2026-02-11T09:57:04.000Z",
+    "language": "en",
+    "wordCount": 1608,
+    "text": "Back to all posts\n\nTutorial\n\nSocial media intelligence\n\nUse cases\n\nHow to scrape Instagram ads: Meta ad intelligence in one tool\n\nTrack competitor ads, analyze creative trends across markets, and automate Instagram ad research in minutes, not hours.\n\nFeb 11, 2026 by\n\nMagda Rýdová\n\nIf you want to extract ad data from Instagram or other Meta platforms, you’ve probably tried the usual options:\n\nManual extraction: Searching the Meta Ads Library, opening ads one by one, and copy-pasting creatives, copy, and metadata into spreadsheets. It’s slow, error-prone, and impossible to scale.\n\nMeta’s officia ... [truncated]",
+    "scrapedAt": "2026-11-12T20:34:45.641Z"
+  }
+]
